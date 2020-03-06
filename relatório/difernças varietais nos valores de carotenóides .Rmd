@@ -1,0 +1,20 @@
+---
+title: "Influência espacial nos valores de carotenóides em especies utilizadas em processos de restauração ecológica"
+author: "Jônatha"
+date: "6 de março de 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+# Introdução
+  Algumas características funcionais em planta e as relações que estas estabelecem com fatores ambientais tem sido utilizado em diversos estudos ambientais, em especial os que buscam promover comparação em nível global. As Características foliares são freqüentemente citadas como principais indicadores no relacionamento do uso de recursos pelas plantas.
+  
+  A lâmina foliar possui todo o aparato fotossintético da planta, por essa razão é o órgão mais plástico do organismo vegetal, respondendo em nível morfológico e fisiológico as variações no ambiente. Por esse motivo, parâmetros fisiológicos são de fácil quantificação. As características foliares são geralmente medidas no auge da estação de crescimento quando as condições ambientais favorecem a assimilação de carbono e há abundância de folhas expandidas e saudáveis.Existem diversos trabalhos que abordam  características foliares e suas inter-relações em ambientes florestais conservados. entretanto, estudos com esse objetivo em ambientes de restauração são insuficientes e escassos. 
+  
+ Tendo em vista a escasses e trabalhos que relacionem características foliares e suas relações com as variações ambientais em ambientes de restauração ecológica. O trbalho que segue tem por objetivo principal a avaliação da variação espacial nas concentrações foliares de carotenóides em espécies utilizadas no processos de restauração ecológica de uma floresta ombrofila, fitofissionomia da Mata atlântica.
+

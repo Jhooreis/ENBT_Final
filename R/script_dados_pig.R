@@ -5,7 +5,7 @@
 
 #criando o objeto; As faces norte e sul foram substituídas por #valores númericos de 1 e 2, respectivamente
 dados <- read.table("data/tabela_dados.txt", h=T)
-View(dados)
+
 
 #lendo os dados
 dados
@@ -18,7 +18,9 @@ dados$X <- as.factor(dados$x)
 
 #gerando o plot
 
-ggplot(dados, aes (x = x, y = y, fill = face)) + geom_boxplot() + theme_classic() + ggtitle("") + xlab("especies") + ylab("valores de carotenoides")
+ggplot(dados, aes (x = x, y = y, fill = face)) + geom_boxplot() + theme_classic() + ggtitle("") + xlab("Espécies") + ylab("Média dos valores de carotenoides")+ scale_fill_brewer(palette = "black")
+
+#exportanto as figuras em formato npg
 
 
 pigm_ANOVA_twoway<-aov(y~face, data=dados)

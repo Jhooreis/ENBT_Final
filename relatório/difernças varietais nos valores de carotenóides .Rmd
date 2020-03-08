@@ -31,7 +31,14 @@ knitr::opts_chunk$set(echo = TRUE)
   
 #Resultados e discussões 
   A partir das análises estatísticas realizadas para os valores de carotenóides (Figura 1)podemos contastar a influência exercida pelas diferencas espacias no local do estudo, em especial a declividade do terreno,que expõe as plantas da face norte a mais horas de irrâdiancia do que as plantadas na face sul. 
-![](../figs/Rplot.png)
-
+![Figura 1: Médias dos valores de carotenóides em nmol cm-2](../figs/Rplot.png)
   
+  
+  Tendo em vista a função fotoprotetora exercida pelos carotenóides contra danos oxidativos, as plantas expostas a uma maior irrâdiancia(face norte) tem como ajuste fisiológico a produção de carotenóides em maior quantidade se comparadas às plantas esxpostas a menores taxas de irrâdiancia. 
+  
+  
+##Conclusão
+Os dados aqui apresentados de quantificação de pigmentos fotossintéticos contribuem para estudos de caracterização e comparação de uso dos recursos e as relações estabelecidas com o ambinete circundante. 
+Fica claro o papel fotoproteor dos carotenóides, assim como a capacidade de ajuste de organismos vegetais frente as mais diversas condições do ambiente, em especial a irrâdiancia. 
+
 
